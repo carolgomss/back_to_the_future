@@ -57,11 +57,7 @@ main {
     object-fit: cover;
     border-radius: 15px;
     transition: 0.7s;
-    filter: grayscale(85%);
-}
-
-.card .box img:hover {
-    filter: grayscale(30%);
+    filter: grayscale(25%);
 }
 
 .card .box .content a {
